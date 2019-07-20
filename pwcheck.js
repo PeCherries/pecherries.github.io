@@ -1,6 +1,6 @@
 function validateForm() {
         var pw = document.getElementById("inputPassword").value;
-        var password = "password";
+        var password = "cannoli";
         //please don't judge me
         if (pw == password) {
             console.log("hey");
